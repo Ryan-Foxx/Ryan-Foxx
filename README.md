@@ -1,7 +1,7 @@
 <h1 align="center">Hello🖐️ I Am Ryan Fox</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&pause=1000&width=435&lines=Welcome+to+my+github+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&pause=1000&width=435&lines=Welcome+to+my+github+profile!;love+learning+new+technologies;Let%E2%80%99s+build+something+awesome&center=true" alt="Typing SVG" />
 </p>
 
 ###
