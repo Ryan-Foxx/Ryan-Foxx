@@ -66,6 +66,8 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
 </div>
 
 ###
