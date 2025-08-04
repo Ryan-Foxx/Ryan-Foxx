@@ -1,28 +1,55 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<!-- README.md -->
 
-###
+<h1 align="center">
+Hello Iam Ryan Fox
+</h1>
+
+<h3 align="center">
+  👨‍💻 Junior Software Engineer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;I+love+learning+new+technologies;Let’s+build+something+awesome!&center=true&width=500&height=45&color=DD2727&vCenter=true&pause=1000&size=22" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://www.instagram.com/in/ryanfox.official/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,redux,py,django,sqlite,mysql,postgresql,docker,git,github,npm,figma,powershell" height="100" />
+</div>
+
+---
+
+## 📈 Stats
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Ryan-Foxx&theme=dark&hide_border=false&border_radius=5" height="180" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryan-Foxx&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Foxx&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" height="180" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ryan-Foxx&theme=darkhub&no-frame=false&no-bg=true&margin-w=15&column=6" />
+</div>
+
+---
+
+## 📫 Contact me
+
+<div align="center">
+  <a href="https://www.Instagram.com/in/ryanfox.official" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryan-Foxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ryan-Foxx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ryan-Foxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Ryan-Foxx&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryan-Foxx/Ryan-Foxx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryan-Foxx/Ryan-Foxx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ryan-Foxx/Ryan-Foxx/output/pacman-contribution-graph.svg">
-</picture>
-
-###
