@@ -57,6 +57,8 @@
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="11" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
